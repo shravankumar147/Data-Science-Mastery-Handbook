@@ -7,3 +7,18 @@ chapters:
 - file: markdown
 - file: notebooks
 - file: markdown-notebooks
+
+chapters:
+- title: "Module 1: Introduction to Python Programming"
+  sections:
+    - file: "Module_1/01_Introduction_to_Python.ipynb"
+      title: "1. Introduction to Python"
+#     - file: "Module_1/02_Basic_Python_Programming.ipynb"
+#       title: "2. Basic Python Programming"
+
+# - title: "Module 2: Data Manipulation and Analysis with Python"
+#   sections:
+#     - file: "Module_2/03_NumPy_and_Pandas.ipynb"
+#       title: "3. Introduction to NumPy and Pandas"
+#     - file: "Module_2/04_Data_Visualization.ipynb"
+#       title: "4. Data Visualization with Matplotlib and Seaborn"
